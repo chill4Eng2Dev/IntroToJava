@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX09_FourFans
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=javafx.scene.shape.Circle\ getCircle()
+comment3.params=stackPane
+comment3.target=void\ stackArcs(javafx.scene.layout.StackPane)
+numComments=4
