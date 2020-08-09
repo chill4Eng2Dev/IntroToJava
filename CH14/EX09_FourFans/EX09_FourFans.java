@@ -1,3 +1,5 @@
+package EX09_FourFans;
+
 
 /**
  * Write a program that places four fans in a GridPane with two rows and two columns.

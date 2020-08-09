@@ -1,3 +1,5 @@
+package EX07_Random0or1;
+
 
 /**
  * Write a program that displays a 10-by-10 square matrix. Each element in the matrix is 0 or 1, randomly generated.

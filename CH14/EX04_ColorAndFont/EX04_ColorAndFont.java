@@ -1,3 +1,5 @@
+package EX04_ColorAndFont;
+
 /**
  * Write a program that displays five texts vertically. Set a random color and opacity for each text and set the font of each text
  * to Times Roman, bold, italic, and 22 pixels.

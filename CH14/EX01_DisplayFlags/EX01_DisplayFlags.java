@@ -1,3 +1,5 @@
+package EX01_DisplayFlags;
+
 
 /**
  * Write a program that displays four images in a grid pane, as shown in Figure 14.43a
@@ -41,5 +43,8 @@ public class EX01_DisplayFlags extends Application {
         primaryStage.show();
     }
     
+	public static void main(String[] args) {
+		Application.launch(args);
+	}
 
 }

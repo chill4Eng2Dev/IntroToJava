@@ -1,3 +1,5 @@
+package EX06_Checkerboard;
+
 
 /**
  * Write a program that displays a checkerboard in which each white and black cell is a rectangle with a fill color black or white.

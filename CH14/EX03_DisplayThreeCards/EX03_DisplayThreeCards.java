@@ -1,3 +1,5 @@
+package EX03_DisplayThreeCards;
+
 
 /**
  * Write a program that displays three cards randomly selected from a deck of 52. The card image files are named 1.png, 2.png, ..., 52.png

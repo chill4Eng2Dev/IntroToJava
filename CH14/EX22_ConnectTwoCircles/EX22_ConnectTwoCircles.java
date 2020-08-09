@@ -1,3 +1,5 @@
+package EX22_ConnectTwoCircles;
+
 
 /**
  * Write a program that draws two circles with radius 15 pixels, centered at random locations, 

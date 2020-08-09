@@ -1,3 +1,5 @@
+package EX26_DisplayTwoClocks;
+
 /**
  * Write a program that displays two clocks. The hour, minute, and second values are 4, 20, 45
  * for the first clock and 22, 46, 15 for the second clock. Use the "ClockPane" class from

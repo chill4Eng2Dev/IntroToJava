@@ -1,3 +1,5 @@
+package EX26_DisplayTwoClocks;
+
 
 /**
  * ClockPane using circle, lines, and gregoriancalendar
