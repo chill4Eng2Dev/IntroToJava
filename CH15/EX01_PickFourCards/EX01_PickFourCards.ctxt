@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EX01_PickFourCards
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=pane
+comment2.target=void\ generateCards(javafx.scene.layout.HBox)
+comment2.text=method\ to\ generate\ cards
+numComments=3
