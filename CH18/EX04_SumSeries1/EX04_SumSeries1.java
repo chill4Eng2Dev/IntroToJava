@@ -18,13 +18,13 @@
 public class EX04_SumSeries1 {
  
    public static void main(String[] args) {
-   
-      // declare and initialize final value from problem statement
-      final double SERIES_I = 10.0;
-   
-      // show output of sumSeries recursive method
-      System.out.println("The sum of the series pattern 1 / i is: " + sumSeries(SERIES_I));
-   
+    
+      // set up table to show i and m(i)
+      System.out.println(" i | m(i) ");
+      System.out.println("----------");
+      for(int i = 1; i <= 10; i++) {
+         System.out.printf("%2d |%5.2f\n", i, sumSeries(i));  // recursively call series for each i
+      }
    }
  
    // recursive call to sume the series pattern as shown in problem statement
