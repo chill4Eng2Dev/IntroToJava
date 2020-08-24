@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX24_PickACard
+comment0.text=\r\n\ (Game\:\ pick\ a\ card)\ Write\ a\ program\ that\ simulates\ picking\ a\ card\ from\ a\ deck\r\n\ of\ 52\ cards.\ Your\ program\ should\ display\ the\ rank\ (Ace,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\r\n\ 10,\ Jack,\ Queen,\ King)\ and\ suit\ (Clubs,\ Diamonds,\ Hearts,\ Spades)\ of\ the\ card.\ \r\n\ Here\ is\ a\ sample\ run\ of\ the\ program\:\r\n\ \r\n\ -------------------------------------\r\n\ The\ card\ you\ picked\ is\ Jack\ of\ Hearts\r\n\ -------------------------------------\r\n\ \r\n\ Commentary\:\ I\ can't\ tell\ if\ I\ am\ supposed\ to\ have\ a\ user\ pick\ a\ card.\ I\ will\ assume\ not?\r\n\ I\ will\ then\ need\ to\ generate\ a\ number\ between\ 1-13\ for\ the\ card,\ and\ 0-3\ (or\ 1-4)\ for\ the\r\n\ suite.\ Then\ I\ will\ use\ two\ switch-case\ statements\ to\ piece\ together\ the\ final\ output\r\n\ as\ shown\ in\ the\ sample\ run.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 8/23/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 3.24\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

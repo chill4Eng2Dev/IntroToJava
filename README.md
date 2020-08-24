@@ -11,7 +11,7 @@
 | :---------------- | :-------------------------: | :--------------------: | :-----------------------------: |
 |**Chapter 1: Introduction to Computers, Programs, and Java** | 13 | 13 | :heavy_check_mark: Complete |
 |**Chapter 2: Elementary Programming** | 23 | 23 | :heavy_check_mark: Complete |
-|**Chapter 3: Selections** | 34 | 0 | :red_circle: Not Started |
+|**Chapter 3: Selections** | 34 | 34 | :heavy_check_mark: Complete |
 |**Chapter 4: Mathematical Functions, Characters, and Strings** | 26 | 0 | :red_circle: Not Started |
 |**Chapter 5: Loops** | 51 | 0 | :red_circle: Not Started |
 |**Chapter 6: Methods** | 39 | 0 | :red_circle: Not Started |

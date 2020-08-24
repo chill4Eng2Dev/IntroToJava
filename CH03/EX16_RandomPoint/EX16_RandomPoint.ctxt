@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX16_RandomPoint
+comment0.text=\r\n\ (Random\ point)\ Write\ a\ program\ that\ displays\ a\ random\ coordinate\ in\ a\ rectangle.\r\n\ The\ rectangle\ is\ centered\ at\ (0,\ 0)\ with\ width\ 100\ and\ height\ 200.\r\n\ \r\n\ Commentary\:\ I\ will\ need\ to\ use\ Math.random()\ and\ add\ some\ specific\ parameters\ that\ the\r\n\ numbers\ can\ generate\ within.\ X\ coordinate\ cannot\ go\ beyond\ (-50,\ 50)\ and\ Y\ coordinate\ cannot\r\n\ exceed\ (-100,\ 100).\ I\ will\ print\ output\ to\ display\ the\ coordinates.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 8/22/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 3.16\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
