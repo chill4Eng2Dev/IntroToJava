@@ -5,6 +5,8 @@
 
 **IDE:** jGRASP or BlueJ depending on modules needed. I am using these IDE's to force me into writing every bit of code without assistance. 
 
+**Documentation:** My documentation methodology is based on the idea of having a complete problem within one file/folder (if possible). For example, I will retype the problem statement, the sample runs, and my thought process in the comments. In the same file (when applicable) I will show my solution. In addition, if there are visual aids such as Figures that must be referenced to expand an idea or that my output is to match, I will provide snap shots of these items within the exercise folder. Lastly, as I progress throughout this book, I may notice a code style I prefer and adjust old files to match the newly prefered style for consistency. 
+
 ## Table of Contents and Exercise Solution Summary
 
 | Chapter and Title | Number of Exercise Problems | Completed Exercise Problems |     Status     |
@@ -42,3 +44,4 @@
 |**Chapter 31: Networking** | 10 | 0 | :red_circle: Not Started |
 |**Chapter 32: Java Database Programming** | 11 | 0 | :red_circle: Not Started |
 |**Chapter 33: JavaServer Faces** | 13 | 0 | :red_circle: Not Started |
+
