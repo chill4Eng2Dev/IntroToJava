@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX25_GenVehiclePlateNum
+comment0.text=\r\n\ (Generate\ vehicle\ plate\ numbers)\ Assume\ a\ vehicle\ plate\ number\ consists\ of\ three\r\n\ uppercase\ letters\ followed\ by\ four\ gits.\ Write\ a\ program\ to\ generate\ a\ plate\ number.\r\n\ \r\n\ Commentary\:\ I\ will\ need\ to\ generate\ three\ random\ integers\ between\ 65\ to\ 90\ (inclusive).\r\n\ I\ will\ then\ need\ to\ generate\ a\ random\ integer\ between\ 1000\ to\ 9999.\ I\ will\ then\ print\r\n\ the\ output\ as\ stated\ in\ the\ problem.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 8/27/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 4.25\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

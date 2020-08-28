@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX16_RandomCharacter
+comment0.text=\r\n\ (Random\ character)\ Write\ a\ program\ that\ displays\ a\ random\ uppercase\ letter\r\n\ using\ the\ Math.random()\ method.\r\n\ \r\n\ Commentary\:\ I\ will\ need\ to\ generate\ a\ random\ integer\ between\ 65\ to\ 90\ (inclusive).\ \ \r\n\ I\ will\ then\ need\ to\ convert\ the\ integer\ to\ a\ char\ and\ then\ print\ the\ char.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 8/27/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 4.16\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
