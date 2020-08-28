@@ -35,25 +35,32 @@ public class EX02_GreatCircleDistance {
     
     public static void main(String[] args) {
         
+        // create a scanner
         Scanner input = new Scanner(System.in);
         
+        // declare and initialize user inputs into first point
         System.out.print("Enter point 1 (latitude and longitude) in degrees: ");
         double x1 = input.nextDouble();
         double y1 = input.nextDouble();
         
+        // declare and initialize user inputs into second point
         System.out.print("Enter point 2 (latitude and longitude) in degrees: ");
         double x2 = input.nextDouble();
         double y2 = input.nextDouble();
         
+        // convert values to radians
         x1 = Math.toRadians(x1);
         y1 = Math.toRadians(y1);
         x2 = Math.toRadians(x2);
         y2 = Math.toRadians(y2);
         
+        // initialize radius with value from problem statement
         double r = 6371.01;
         
+        // calculate the distance with formula from problem statement
         double dist = r * Math.acos(Math.sin(x1) * Math.sin(x2) + Math.cos(x1) * Math.cos(x2) * Math.cos(y1 - y2));
         
+        // print output as shown in sample run
         System.out.println("The distance between the two points is " + dist + " km");
         
     }
