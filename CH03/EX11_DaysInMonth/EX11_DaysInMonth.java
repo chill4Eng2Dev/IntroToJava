@@ -34,7 +34,7 @@ public class EX11_DaysInMonth {
         // determine if leap year and set boolean
         boolean isLeapYear = (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
         
-        // use switch-case statement to cycle through months, use if statement to determin february days
+        // use switch-case statement to cycle through months, use if statement to determine february days
         switch (month) {
             case 1: System.out.println("January " + year + " had 31 days"); break;
             case 2: System.out.println("February " + year + " had " + (isLeapYear ? "29 days" : "28 days")); break;
