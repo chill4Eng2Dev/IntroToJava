@@ -12,8 +12,8 @@
  * 
  * Commentary: I will need to modify Listing 3.8 to account for three-digits instead of two.
  * The skeleton of the code looks to be mostly complete to what I will need. I will need to
- * add a few extra steps to account for the extra digit. I will print output to match the
- * listing sample runs.
+ * add a few extra boolean checks to account for the extra digit. I will print output to match 
+ * the listing sample runs.
  * 
  * Author: chill4Eng2Dev 
  * Date: 8/22/2020
@@ -52,7 +52,7 @@ public class EX15_Lottery {
     
     // check guess, need to build boolean matrix to check all possible permutations
     if (guess == lottery)
-        System.out.println("Exact math: you win $10,000");
+        System.out.println("Exact match: you win $10,000");
     else if ((guessDigit1 == lotteryDigit1 && guessDigit2 == lotteryDigit2 && guessDigit3 == lotteryDigit3) ||
              (guessDigit3 == lotteryDigit1 && guessDigit1 == lotteryDigit2 && guessDigit2 == lotteryDigit3) ||
              (guessDigit2 == lotteryDigit1 && guessDigit3 == lotteryDigit2 && guessDigit1 == lotteryDigit3) ||
