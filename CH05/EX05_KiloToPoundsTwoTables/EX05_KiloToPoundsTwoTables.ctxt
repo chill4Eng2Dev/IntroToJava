@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX05_KiloToPoundsTwoTables
+comment0.text=\r\n\ (Conversion\ from\ kilograms\ to\ pounds\ and\ pounds\ to\ kilograms)\ Write\ a\ program\r\n\ that\ displays\ the\ following\ two\ tables\ side\ by\ side\:\r\n\ \r\n\ Kilograms\ Pounds\ \ \ \ \ |\ \ \ Pounds\ Kilograms\r\n\ 1\ \ \ \ \ \ \ \ \ \ \ \ 2.2\ \ \ \ \ |\ \ \ 20\ \ \ \ \ \ \ \ \ \ 9.09\r\n\ 3\ \ \ \ \ \ \ \ \ \ \ \ 6.6\ \ \ \ \ |\ \ \ 25\ \ \ \ \ \ \ \ \ 11.36\r\n\ ...\r\n\ 197\ \ \ \ \ \ \ \ 433.4\ \ \ \ \ |\ \ \ 510\ \ \ \ \ \ \ 231.82\r\n\ 199\ \ \ \ \ \ \ \ 437.8\ \ \ \ \ |\ \ \ 515\ \ \ \ \ \ \ 234.09\r\n\ \r\n\ Commentary\:\ I\ will\ need\ to\ use\ multiple\ variables\ and\ loop\ continuation\ conditions\r\n\ in\ this\ for\ loop.\ I\ will\ print\ the\ outputs\ using\ printf\ to\ control\ the\ table\ size\r\n\ and\ match\ the\ sample\ table\ output.\ \r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 8/31/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 5.5\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

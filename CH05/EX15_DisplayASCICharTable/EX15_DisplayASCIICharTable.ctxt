@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX15_DisplayASCIICharTable
+comment0.text=\r\n\ (Display\ the\ ASCII\ character\ table)\ Write\ a\ program\ that\ prints\ the\ characters\ in\r\n\ the\ ASCII\ character\ table\ from\ \!\ to\ ~.\ Display\ ten\ characters\ per\ line.\ The\ ASCII\r\n\ table\ is\ shown\ in\ Appendix\ B.\ Characters\ are\ separated\ by\ exactly\ one\ space.\r\n\ \r\n\ Commentary\:\ I\ will\ use\ a\ for\ loop\ using\ the\ integer\ numerical\ range\ that\ corresponds\ \r\n\ to\ the\ characters\ that\ need\ to\ be\ printed\ as\ stated\ in\ the\ problem\ statement.\ \r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/3/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 5.15\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

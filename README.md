@@ -15,7 +15,7 @@
 |**Chapter 2: Elementary Programming** | 23 | 23 | 100% | :heavy_check_mark: Complete |
 |**Chapter 3: Selections** | 34 | 34 | 100% | :heavy_check_mark: Complete |
 |**Chapter 4: Mathematical Functions, Characters, and Strings** | 26 | 26 | 100% | :heavy_check_mark: Complete |
-|**Chapter 5: Loops** | 51 | 0 | 0% | :red_circle: Not Started |
+|**Chapter 5: Loops** | 51 | 51 | 100% | :heavy_check_mark: Complete |
 |**Chapter 6: Methods** | 39 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 7: Single-Dimensional Arrays** | 35 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 8: Multidimensional Arrays** | 37 | 0 | 0% | :red_circle: Not Started |
@@ -45,5 +45,5 @@
 |**Chapter 32: Java Database Programming** | 11 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 33: JavaServer Faces** | 13 | 0 | 0% | :red_circle: Not Started |
 
-### Total Problems Completed: 133 of 776 Total or 17.14%
+### Total Problems Completed: 184 of 776 Total or 23.71%
 

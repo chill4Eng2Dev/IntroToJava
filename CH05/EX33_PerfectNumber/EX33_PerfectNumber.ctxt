@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX33_PerfectNumber
+comment0.text=\r\n\ (Perfect\ number)\ A\ positive\ integer\ is\ called\ a\ perfect\ number\ if\ it\ is\ equal\ to\r\n\ the\ sum\ of\ all\ of\ its\ positive\ divisors,\ excluding\ itself.\ For\ example,\ 6\ is\ the\ first\r\n\ perfect\ number\ because\ 6\ \=\ 3\ +\ 2\ +\ 1.\ The\ next\ is\ 28\ \=\ 14\ +\ 7\ +\ 4\ +\ 2\ +\ 1.\ \r\n\ There\ are\ four\ perfect\ numbers\ less\ than\ 10,000.\ Write\ a\ program\ to\ find\ all\r\n\ these\ four\ numbers.\r\n\ \r\n\ Commentary\:\ I\ will\ need\ to\ use\ a\ nested\ for\ loop\ to\ cycle\ through\ the\ values\ between\r\n\ 6\ and\ 10000.\ I\ will\ need\ the\ other\ for\ loop\ to\ check\ the\ sum\ of\ the\ modulus\ of\ 0\ of\ \r\n\ all\ values\ up\ to\ the\ potential\ perfect\ number\ being\ checked.\ I\ will\ compare\ the\ sum\ \r\n\ of\ these\ values\ to\ the\ potential\ perfect\ number.\ I\ will\ print\ the\ output\ as\ stated\ \r\n\ in\ the\ problem\ statement.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/5/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 5.33\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

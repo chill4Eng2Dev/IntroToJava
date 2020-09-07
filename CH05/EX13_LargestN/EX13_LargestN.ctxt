@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX13_LargestN
+comment0.text=\r\n\ (Find\ the\ largest\ n\ such\ that\ n^3\ <\ 12,000)\ Use\ a\ while\ loop\ to\ find\ the\ largest\r\n\ integer\ n\ such\ that\ n^3\ is\ less\ than\ 12,000.\r\n\ \r\n\ Commentary\:\ I\ will\ use\ a\ while\ loop\ to\ iterate\ through\ all\ possible\ values\ of\ n\ and\r\n\ display\ the\ result.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/1/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 5.13\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

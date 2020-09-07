@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX06_MilesToKiloTwoTables
+comment0.text=\r\n\ (Conversion\ from\ miles\ to\ kilometers)\ Write\ a\ program\ that\ displays\ the\ following\r\n\ two\ tables\ side\ by\ side\:\r\n\ \r\n\ Miles\ \ \ \ Kilometers\ \ |\ \ \ Kilometers\ \ \ \ Miles\r\n\ 1\ \ \ \ \ \ \ \ 1.609\ \ \ \ \ \ \ |\ \ \ 20\ \ \ \ \ \ \ \ \ \ \ \ 12.430\r\n\ 2\ \ \ \ \ \ \ \ 3.218\ \ \ \ \ \ \ |\ \ \ 25\ \ \ \ \ \ \ \ \ \ \ \ 15.538\r\n\ ...\r\n\ 9\ \ \ \ \ \ \ \ 14.481\ \ \ \ \ \ |\ \ \ 60\ \ \ \ \ \ \ \ \ \ \ \ 37.290\r\n\ 10\ \ \ \ \ \ \ 16.090\ \ \ \ \ \ |\ \ \ 65\ \ \ \ \ \ \ \ \ \ \ \ 40.398\r\n\ \r\n\ Commentary\:\ I\ will\ need\ to\ use\ multiple\ variables\ and\ loop\ continuation\ conditions\r\n\ in\ this\ for\ loop.\ I\ will\ print\ the\ outputs\ using\ printf\ to\ control\ the\ table\ size\r\n\ and\ match\ the\ sample\ table\ output.\ \r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 8/31/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 5.6\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

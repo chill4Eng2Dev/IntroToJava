@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX11_NumsDivBy5Or6
+comment0.text=\r\n\ (Find\ numbers\ divisible\ by\ 5\ or\ 6,\ but\ not\ both)\ Write\ a\ program\ that\ displays\r\n\ all\ the\ numbers\ from\ 100\ to\ 200,\ ten\ per\ line,\ that\ are\ divisible\ by\ 5\ or\ 6,\ but\ not\r\n\ both.\ Numbers\ are\ separated\ by\ exactly\ one\ space.\r\n\ \r\n\ Commentary\:\ I\ will\ need\ to\ use\ a\ for\ loop\ and\ increment\ by\ 1\ and\ use\ a\ XOR\ operator\ when\r\n\ comparing\ modulus\ of\ 5\ and\ 6.\ I\ will\ have\ a\ variable\ to\ control\ how\ many\ times\ a\ number\ \r\n\ is\ printed\ per\ a\ row.\ I\ will\ print\ the\ output\ as\ stated\ in\ the\ problem.\ \r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/1/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 5.11\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX40_HeadsOrTails
+comment0.text=\r\n\ (Simulation\:\ heads\ or\ tails)\ Write\ a\ program\ that\ simulates\ flipping\ a\ coin\ one\r\n\ million\ times\ and\ displays\ the\ number\ of\ heads\ and\ tails.\r\n\ \r\n\ Commentary\:\ I\ will\ use\ a\ for\ loop\ and\ Math.random()\ value\ to\ simulate\ either\ 0\ or\ 1.\ \r\n\ Heads\ will\ be\ zero\ and\ tails\ 1.\ I\ will\ store\ the\ values\ into\ a\ counter\ for\ each.\ I\ \r\n\ will\ print\ output\ as\ described\ in\ problem\ statement.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/2/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 5.40\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

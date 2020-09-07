@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EX20_PrimeNums2To1000
+comment0.text=\r\n\ (Display\ prime\ numbers\ between\ 2\ and\ 1,000)\ Modify\ Listing\ 5.15\ to\ display\ all\r\n\ the\ prime\ numbers\ between\ 2\ and\ 1,000,\ inclusive.\ Display\ eight\ prime\ numbers\r\n\ per\ line.\ Numbers\ are\ separated\ by\ exactly\ one\ space.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ Commentary\:\ Start\ with\ Listing\ 5.15\ and\ modify\ to\ a\ for\ loop.\ Clean\ up\ or\ remove\r\n\ some\ of\ the\ unnecessary\ variables\ as\ used\ in\ Listing\ 5.15.\ I\ will\ print\ the\ output\r\n\ as\ shown\ in\ Listing\ 5.15.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/1/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 5.20\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
