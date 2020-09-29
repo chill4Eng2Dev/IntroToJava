@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX18_TowerOfHanoi
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Main\ method
+comment2.params=n\ fromTower\ toTower\ auxTower
+comment2.target=void\ moveDisks(int,\ char,\ char,\ char)
+comment2.text=\ The\ method\ for\ finding\ the\ solution\ to\ move\ n\ disks\r\nfrom\ fromTower\ to\ toTower\ with\ auxTower
+numComments=3

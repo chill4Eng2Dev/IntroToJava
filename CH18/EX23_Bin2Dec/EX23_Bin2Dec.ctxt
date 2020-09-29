@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX23_Bin2Dec
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=binaryString
+comment2.target=int\ bin2Dec(java.lang.String)
+comment3.params=binaryString\ high\ expIndex\ decimal
+comment3.target=int\ bin2Dec(java.lang.String,\ int,\ int,\ int)
+numComments=4
