@@ -28,7 +28,7 @@
 |**Chapter 15: Event-Driven Programming and Animations** | 36 | 2 | 5.6% | :large_blue_circle: *In progress* |
 |**Chapter 16: JavaFX UI Controls and Multimedia** | 31 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 17: Binary I/O** | 21 | 0 | 0% | :red_circle: Not Started |
-|**Chapter 18: Recursion** | 39 | 17 | 43.6% | :large_blue_circle: *In progress* |
+|**Chapter 18: Recursion** | 39 | 22 | 56.4% | :large_blue_circle: *In progress* |
 |**Chapter 19: Generics** | 11 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 20: Lists, Stacks, Queues, and Priority Queues** | 23 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 21: Sets and Maps** | 15 | 0 | 0% | :red_circle: Not Started |
@@ -45,5 +45,5 @@
 |**Chapter 32: Java Database Programming** | 11 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 33: JavaServer Faces** | 13 | 0 | 0% | :red_circle: Not Started |
 
-### Total Problems Completed: 184 of 776 Total or 23.71%
+### Total Problems Completed: 189 of 776 Total or 24.36%
 
