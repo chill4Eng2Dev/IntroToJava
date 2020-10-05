@@ -79,7 +79,7 @@ public class EX03_EstimateAreas {
         double totalArea = Math.round((area1 + area2) * 100.0) / 100.0;
 
         // print output of the total area
-        System.out.println("The total area covered between the four cities is " + totalArea + " km");
+        System.out.println("The total area covered between the four cities is " + totalArea + " km^2");
         
     }
         
