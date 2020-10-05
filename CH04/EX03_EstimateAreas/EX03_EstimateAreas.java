@@ -76,7 +76,7 @@ public class EX03_EstimateAreas {
         double area2 = Math.sqrt(sTri2 * (sTri2 - dAtlChar) * (sTri2 - dCharSav) * (sTri2 - dSavAtl));
         
         // calculate and round total area
-        double totalArea = Math.round((area1 + area2) / 2 * 100.0) / 100.0;
+        double totalArea = Math.round((area1 + area2) * 100.0) / 100.0;
 
         // print output of the total area
         System.out.println("The total area covered between the four cities is " + totalArea + " km");
