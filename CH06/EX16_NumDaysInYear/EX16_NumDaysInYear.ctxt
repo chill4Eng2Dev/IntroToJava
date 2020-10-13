@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EX16_NumDaysInYear
+comment0.text=\r\n\ (Number\ of\ days\ in\ a\ year)\ Write\ a\ method\ that\ returns\ the\ number\ of\ days\ in\ a\r\n\ year\ using\ the\ following\ header\:\r\n\ \r\n\ \ \ \ \ \ public\ static\ int\ numberOfDaysInAYear(int\ year)\r\n\ \r\n\ Write\ a\ test\ program\ that\ displays\ the\ number\ of\ days\ in\ year\ from\ 2000\ to\ 2020.\r\n\ \r\n\ Commentary\:\ I\ will\ use\ isLeapYear\ method\ to\ check\ the\ year\ and\ if\ the\ year\ has\r\n\ 365\ days\ versus\ 366\ days.\ I\ will\ print\ the\ output\ as\ stated\ in\ the\ problem\ statement.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/9/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.16\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=year
+comment2.target=int\ numberOfDaysInAYear(int)
+comment3.params=year
+comment3.target=boolean\ isLeapYear(int)
+numComments=4

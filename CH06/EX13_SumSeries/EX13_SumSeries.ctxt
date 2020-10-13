@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EX13_SumSeries
+comment0.text=\r\n\ (Sum\ series)\ Write\ a\ method\ to\ compute\ the\ following\ series\:\r\n\ \r\n\ \ \ \ \ \ \ \ \ \ m(i)\ \=\ 1\ /\ 2\ +\ 2\ /\ 3\ +\ ...\ +\ i\ /\ (i\ +\ 1)\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ Write\ a\ test\ program\ that\ displays\ the\ following\ table\:\r\n\ \r\n\ \ \ \ \ \ i\ \ \ \ \ \ \ \ \ \ \ m(i)\r\n\ \ \ \ \ \ --------------------\r\n\ \ \ \ \ \ 1\ \ \ \ \ \ \ \ \ \ \ 0.5000\r\n\ \ \ \ \ \ 2\ \ \ \ \ \ \ \ \ \ \ 1.1667\r\n\ \ \ \ \ \ ...\r\n\ \ \ \ \ \ 19\ \ \ \ \ \ \ \ \ \ 16.4023\r\n\ \ \ \ \ \ 20\ \ \ \ \ \ \ \ \ \ 17.3546\r\n\ \ \r\n\ Commentary\:\ I\ will\ create\ a\ method\ that\ returns\ m(i)\ as\ double\ for\ each\ value\ \r\n\ of\ i.\ I\ will\ need\ to\ use\ a\ for\ loop\ to\ print\ the\ table\ while\ calling\ the\ sumSeries\r\n\ method.\ I\ will\ print\ output\ to\ match\ the\ sample\ run.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/13/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.13\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sumIterations
+comment2.target=double\ sumSeries(int)
+numComments=3

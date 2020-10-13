@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EX09_ConvertFeetToMeters
+comment0.text=\r\n\ (Conversions\ between\ feet\ and\ meters)\ Write\ a\ class\ that\ contains\ the\ following\r\n\ two\ methods\:\r\n\ \r\n\ //\ Convert\ from\ feet\ to\ meters\ \r\n\ public\ static\ double\ footToMeter(double\ foot)\r\n\ \r\n\ //\ Convert\ from\ meters\ to\ feet\r\n\ public\ static\ double\ meterToFoot(double\ meter)\r\n\ \r\n\ The\ formula\ for\ the\ conversion\ is\:\r\n\ \r\n\ meter\ \=\ 0.305\ *\ foot\r\n\ foot\ \=\ 3.279\ *\ meter\r\n\ \r\n\ Write\ a\ test\ program\ that\ invokes\ these\ methods\ to\ display\ the\ following\ tables\:\r\n\ \r\n\ \ \ \ \ \ Feet\ \ \ \ \ \ \ \ \ Meters\ \ \ \ \ \ |\ \ \ \ \ \ \ Meters\ \ \ \ \ \ Feet\r\n\ \ \ \ \ \ ----------------------------------------------------\r\n\ \ \ \ \ \ 1.0\ \ \ \ \ \ \ \ \ \ 0.305\ \ \ \ \ \ \ |\ \ \ \ \ \ \ 20.0\ \ \ \ \ \ \ \ 65.574\r\n\ \ \ \ \ \ 2.0\ \ \ \ \ \ \ \ \ \ 0.610\ \ \ \ \ \ \ |\ \ \ \ \ \ \ 25.0\ \ \ \ \ \ \ \ 81.967\r\n\ \ \ \ \ \ ...\r\n\ \ \ \ \ \ 9.0\ \ \ \ \ \ \ \ \ \ 2.745\ \ \ \ \ \ \ |\ \ \ \ \ \ \ 60.0\ \ \ \ \ \ \ \ 196.721\r\n\ \ \ \ \ \ 10.0\ \ \ \ \ \ \ \ \ 3.050\ \ \ \ \ \ \ |\ \ \ \ \ \ \ 65.0\ \ \ \ \ \ \ \ 213.115\r\n\ \ \r\n\ Commentary\:\ I\ will\ use\ the\ provided\ formulas\ to\ calculate\ meters\ and\ feet\ utilizing\r\n\ methods.\ I\ will\ print\ the\ table\ as\ shown\ in\ the\ sample\ run.\ \r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/9/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.9\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=foot
+comment2.target=double\ footToMeter(double)
+comment3.params=meter
+comment3.target=double\ meterToFoot(double)
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EX01_PentagonalNumbers
+comment0.text=\r\n\ (Math\:\ pentagonal\ numbers)\ A\ pentagonal\ number\ is\ defined\ as\ n(3n\u20131)/2\ for\r\n\ n\ \=\ 1,\ 2,\ .\ .\ .,\ and\ so\ on.\ Therefore,\ the\ first\ few\ numbers\ are\ 1,\ 5,\ 12,\ 22,\ .\ .\ .\ .\r\n\ Write\ a\ method\ with\ the\ following\ header\ that\ returns\ a\ pentagonal\ number\:\r\n\ \r\n\ \ \ \ \ \ public\ static\ int\ getPentagonalNumber(int\ n)\r\n\ \r\n\ Write\ a\ test\ program\ that\ uses\ this\ method\ to\ display\ the\ first\ 100\ pentagonal\r\n\ numbers\ with\ 10\ numbers\ on\ each\ line.\r\n\ \r\n\ Commentary\:\ I\ will\ use\ the\ provided\ formula\ and\ create\ the\ method.\ I\ will\ use\ a\r\n\ for\ loop\ to\ cycle\ through\ all\ of\ the\ pentagonal\ numbers\ and\ print\ 10\ per\ row\r\n\ per\ the\ problem\ statement.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/7/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=int\ getPentagonalNumber(int)
+numComments=3

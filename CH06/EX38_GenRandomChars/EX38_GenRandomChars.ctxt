@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EX38_GenRandomChars
+comment0.text=\r\n\ (Generate\ random\ characters)\ Use\ the\ methods\ in\ RandomCharacter\ in\ Listing\r\n\ 6.10\ to\ print\ 100\ uppercase\ letters\ and\ then\ 100\ single\ digits,\ printing\ ten\ per\ line.\r\n\ \ \r\n\ Commentary\:\ I\ will\ need\ two\ for\ loops\ to\ print\ the\ upper\ case\ letters\ then\ the\ numbers.\r\n\ The\ methods\ from\ Listing\ 6.10\ will\ be\ the\ getRandomCharacter(),\ getRandomUpperCase(),\r\n\ and\ getRandomDigitCharacter().\ I\ will\ print\ output\ as\ stated\ in\ the\ problem\ statement.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/9/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.38\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=ch1\ ch2
+comment2.target=char\ getRandomCharacter(char,\ char)
+comment3.params=
+comment3.target=char\ getRandomUpperCaseLetter()
+comment4.params=
+comment4.target=char\ getRandomDigitCharacter()
+numComments=5

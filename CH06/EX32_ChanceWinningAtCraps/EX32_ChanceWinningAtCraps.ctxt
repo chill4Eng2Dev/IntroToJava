@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EX32_ChanceWinningAtCraps
+comment0.text=\r\n\ (Game\:\ chance\ of\ winning\ at\ craps)\ Revise\ Exercise\ 6.30\ to\ run\ it\ 10,000\ times\r\n\ and\ display\ the\ number\ of\ winning\ games.\r\n\ \r\n\ Commentary\:\ I\ will\ revise\ Exercise\ 6.30\ and\ remove\ any\ output\ that\ shows\ the\r\n\ "win"\ or\ "lose"\ commentary.\ I\ will\ instead\ replace\ these\ areas\ with\ a\ static\ variable\r\n\ for\ wins\ and\ losses.\ I\ will\ print\ output\ to\ show\ wins,\ losses,\ and\ total\ iterations.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/29/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.32\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ rollTwoDice()
+comment3.params=result
+comment3.target=boolean\ craps(int)
+comment4.params=result
+comment4.target=boolean\ natural(int)
+comment5.params=result
+comment5.target=void\ point(int)
+numComments=6

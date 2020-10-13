@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EX10_UsePrimeMethod
+comment0.text=\r\n\ (Use\ the\ isPrime\ Method)\ Listing\ 6.7,\ PrimeNumberMethod.java,\ provides\ the\r\n\ isPrime(int\ number)\ method\ for\ testing\ whether\ a\ number\ is\ prime.\ Use\ this\r\n\ method\ to\ find\ the\ number\ of\ prime\ numbers\ less\ than\ 10000.\r\n\ \ \r\n\ Commentary\:\ I\ will\ use\ Listing\ 6.7\ as\ base\ code\ and\ remove\ printing\ function\r\n\ of\ the\ base\ code.\ I\ will\ convert\ the\ print\ method\ into\ a\ counting\ method.\ I\r\n\ will\ then\ print\ output\ of\ total\ number\ of\ prime\ numbers\ between\ 1\ and\ 10000.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/9/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.10\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfPrimes
+comment2.target=int\ countPrimeNumbers(int)
+comment3.params=number
+comment3.target=boolean\ isPrime(int)
+comment3.text=Check\ whether\ number\ is\ prime
+numComments=4

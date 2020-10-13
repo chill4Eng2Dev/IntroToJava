@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EX31_CreditCardNumValid
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number
+comment2.target=boolean\ isValid(long)
+comment3.params=number
+comment3.target=int\ sumOfDoubleEvenPlace(long)
+comment4.params=number
+comment4.target=int\ getDigit(int)
+comment5.params=number
+comment5.target=int\ sumOfOddPlace(long)
+comment6.params=d
+comment6.target=int\ getSize(long)
+comment7.params=number\ d
+comment7.target=boolean\ prefixMatched(long,\ int)
+comment8.params=number\ k
+comment8.target=long\ getPrefix(long,\ int)
+numComments=9

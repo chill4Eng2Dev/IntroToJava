@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=EX34_PrintCalendar
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Main\ method
+comment2.params=year\ month
+comment2.target=void\ printMonth(int,\ int)
+comment2.text=Print\ the\ calendar\ for\ a\ month\ in\ a\ year
+comment3.params=year\ month
+comment3.target=void\ printMonthTitle(int,\ int)
+comment3.text=Print\ the\ month\ title,\ e.g.,\ March\ 2012
+comment4.params=month
+comment4.target=java.lang.String\ getMonthName(int)
+comment4.text=Get\ the\ English\ name\ for\ the\ month
+comment5.params=year\ month
+comment5.target=void\ printMonthBody(int,\ int)
+comment5.text=Print\ month\ body
+comment6.params=year\ month
+comment6.target=int\ getDayZellers(int,\ int)
+comment7.params=year\ month
+comment7.target=int\ getNumberOfDaysInMonth(int,\ int)
+comment7.text=Get\ the\ number\ of\ days\ in\ a\ month
+comment8.params=year
+comment8.target=boolean\ isLeapYear(int)
+comment8.text=Determine\ if\ it\ is\ a\ leap\ year
+numComments=9

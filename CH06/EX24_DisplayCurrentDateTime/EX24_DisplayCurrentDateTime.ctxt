@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=EX24_DisplayCurrentDateTime
+comment0.text=\r\n\ (Display\ current\ date\ and\ time)\ Listing\ 2.7,\ ShowCurrentTime.java,\ displays\ the\r\n\ current\ time.\ Improve\ this\ example\ to\ display\ the\ current\ date\ and\ time.\ The\ calendar\r\n\ example\ in\ Listing\ 6.12,\ PrintCalendar.java,\ should\ give\ you\ some\ ideas\ on\r\n\ how\ to\ find\ the\ year,\ month,\ and\ day.\r\n\ \r\n\ Commentary\:\ I\ will\ use\ Listing\ 2.7,\ Exercise\ 2.8,\ and\ Exercise\ 3.30\ to\ get\ the\ current\r\n\ time\ in\ the\ EST\ time\ zone.\ I\ will\ use\ Listing\ 6.12\ to\ get\ the\ date.\ I\ will\ need\ to\ calculate\r\n\ the\ total\ days\ that\ have\ elapsed\ since\ Jan\ 1,\ 1970.\ Then\ determine\ years,\ and\ finally\ months.\r\n\ Some\ of\ the\ methods\ shown\ in\ Listing\ 6.12\ will\ be\ discarded.\ I\ will\ print\ output\ as\ described\r\n\ in\ the\ exercise.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 10/12/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.24\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=millis
+comment2.target=java.lang.String\ getTime(long)
+comment3.params=millis
+comment3.target=java.lang.String\ getDate(long)
+comment4.params=seconds
+comment4.target=long\ getDays(long)
+comment5.params=days\ yearOrDays
+comment5.target=int\ getYearOrRemainDays(long,\ int)
+comment6.params=remainDays\ curYear\ monthOrRemainDays
+comment6.target=int\ getMonthOrRemainDays(int,\ int,\ int)
+comment7.params=month
+comment7.target=java.lang.String\ getMonthName(int)
+comment7.text=Get\ the\ English\ name\ for\ the\ month
+comment8.params=year\ month
+comment8.target=int\ getNumberOfDaysInMonth(int,\ int)
+comment8.text=Get\ the\ number\ of\ days\ in\ a\ month
+comment9.params=year
+comment9.target=boolean\ isLeapYear(int)
+comment9.text=Determine\ if\ it\ is\ a\ leap\ year
+numComments=10

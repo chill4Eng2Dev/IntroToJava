@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EX28_MersennePrime
+comment0.text=\r\n\ (Mersenne\ prime)\ A\ prime\ number\ is\ called\ a\ Mersenne\ prime\ if\ it\ can\ be\ written\r\n\ in\ the\ form\ 2^p\ -\ 1\ for\ some\ positive\ integer\ p.\ Write\ a\ program\ that\ finds\ all\r\n\ Mersenne\ primes\ with\ p\ <\=\ 31\ and\ displays\ the\ output\ as\ follows\:\r\n\ \r\n\ \ \ \ \ \ p\ \ \ \ \ \ \ \ \ \ \ 2^p\ \u20131\r\n\ \ \ \ \ \ --------------------\r\n\ \ \ \ \ \ 2\ \ \ \ \ \ \ \ \ \ \ 3\r\n\ \ \ \ \ \ 3\ \ \ \ \ \ \ \ \ \ \ 7\r\n\ \ \ \ \ \ 5\ \ \ \ \ \ \ \ \ \ \ 31\r\n\ \ \ \ \ \ ...\r\n\ \r\n\ Commentary\:\ I\ will\ use\ the\ isPrime\ method\ from\ Exercise\ 6.10\ and\ create\ a\ new\ method\r\n\ to\ calculate\ the\ mersennePrime\ number.\ I\ will\ check\ the\ number\ p\ if\ prime\ and\ calculate\r\n\ Mersenne\ prime\ if\ number\ is\ prime.\ I\ will\ print\ table\ as\ shown\ in\ problem\ statement.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/11/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.28\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number
+comment2.target=boolean\ isPrime(int)
+comment2.text=Check\ whether\ number\ is\ prime
+comment3.params=number
+comment3.target=int\ mersennePrime(int)
+comment3.text=calculate\ mersennePrime\ number
+numComments=4

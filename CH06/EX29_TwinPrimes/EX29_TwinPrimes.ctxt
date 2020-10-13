@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EX29_TwinPrimes
+comment0.text=\r\n\ (Twin\ primes)\ Twin\ primes\ are\ a\ pair\ of\ prime\ numbers\ that\ differ\ by\ 2.\ For\ example,\r\n\ 3\ and\ 5\ are\ twin\ primes,\ 5\ and\ 7\ are\ twin\ primes,\ and\ 11\ and\ 13\ are\ twin\ primes.\r\n\ Write\ a\ program\ to\ find\ all\ twin\ primes\ less\ than\ 1,000.\ Display\ the\ output\ as\ follows\:\r\n\ \r\n\ \ \ \ \ \ (3,\ 5)\r\n\ \ \ \ \ \ (5,\ 7)\r\n\ \ \ \ \ \ ...\r\n\ \r\n\ Commentary\:\ I\ will\ call\ isTwinPrime\ method\ to\ check\ the\ current\ number,\ and\ the\ number\ +\ 2\r\n\ if\ prime\ by\ calling\ the\ isPrime\ method\ for\ each\ check.\ I\ will\ then\ print\ the\ number\ and\r\n\ number\ +\ 2\ as\ shown\ in\ problem\ statement\ should\ the\ check\ be\ valid.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/11/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.29\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number
+comment2.target=boolean\ isPrime(int)
+comment2.text=Check\ whether\ number\ is\ prime
+comment3.params=number
+comment3.target=boolean\ isTwinPrime(int)
+comment3.text=Check\ if\ the\ current\ number\ and\ the\ number\ +\ 2\ are\ prime
+numComments=4

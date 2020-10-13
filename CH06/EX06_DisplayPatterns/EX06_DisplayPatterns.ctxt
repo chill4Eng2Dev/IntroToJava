@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EX06_DisplayPatterns
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=void\ displayPattern(int)
+numComments=3

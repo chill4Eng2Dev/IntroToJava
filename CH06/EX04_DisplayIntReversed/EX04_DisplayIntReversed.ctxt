@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EX04_DisplayIntReversed
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number
+comment2.target=void\ reverse(int)
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EX27_Emirp
+comment0.text=\r\n\ (Emirp)\ An\ emirp\ (prime\ spelled\ backward)\ is\ a\ nonpalindromic\ prime\ number\r\n\ whose\ reversal\ is\ also\ a\ prime.\ For\ example,\ 17\ is\ a\ prime\ and\ 71\ is\ a\ prime,\ so\ 17\r\n\ and\ 71\ are\ emirps.\ Write\ a\ program\ that\ displays\ the\ first\ 100\ emirps.\ Display\ 10\r\n\ numbers\ per\ line,\ separated\ by\ exactly\ one\ space,\ as\ follows\:\r\n\ \r\n\ \r\n\ \ \ \ \ \ 13\ 17\ 31\ 37\ 71\ 73\ 79\ 97\ 107\ 113\r\n\ \ \ \ \ \ 149\ 157\ 167\ 179\ 199\ 311\ 337\ 347\ 359\ 389\r\n\ \ \ \ \ \ ...\r\n\ \r\n\ Commentary\:\ This\ exercise\ is\ very\ close\ to\ the\ same\ exercise\ as\ Exercise\ 26\ except\r\n\ with\ a\ modified\ if\ statement\ boolean.\ I\ will\ modify\ the\ code\ from\ Example\ 26\ and\r\n\ print\ output\ as\ shown\ in\ problem\ statement.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/11/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.27\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number
+comment2.target=boolean\ isPrime(int)
+comment2.text=Check\ whether\ number\ is\ prime
+comment3.params=number
+comment3.target=int\ reverse(int)
+comment3.text=Reverse\ the\ prime\ number
+numComments=4

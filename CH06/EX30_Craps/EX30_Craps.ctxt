@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EX30_Craps
+comment0.text=\r\n\ (Game\:\ craps)\ Craps\ is\ a\ popular\ dice\ game\ played\ in\ casinos.\ Write\ a\ program\r\n\ to\ play\ a\ variation\ of\ the\ game,\ as\ follows\:\r\n\ \r\n\ Roll\ two\ dice.\ Each\ die\ has\ six\ faces\ representing\ values\ 1,\ 2,\ \u2026,\ and\ 6,\ respectively.\r\n\ Check\ the\ sum\ of\ the\ two\ dice.\ If\ the\ sum\ is\ 2,\ 3,\ or\ 12\ (called\ craps),\ you\r\n\ lose;\ if\ the\ sum\ is\ 7\ or\ 11\ (called\ natural),\ you\ win;\ if\ the\ sum\ is\ another\ value\r\n\ (i.e.,\ 4,\ 5,\ 6,\ 8,\ 9,\ or\ 10),\ a\ point\ is\ established.\ Continue\ to\ roll\ the\ dice\ until\ either\r\n\ a\ 7\ or\ the\ same\ point\ value\ is\ rolled.\ If\ 7\ is\ rolled,\ you\ lose.\ Otherwise,\ you\ win.\r\n\ \r\n\ Your\ program\ acts\ as\ a\ single\ player.\ Here\ are\ some\ sample\ runs.\r\n\ \r\n\ ----------------------------------\r\n\ You\ rolled\ 5\ +\ 6\ \=\ 11\r\n\ You\ win\r\n\ ----------------------------------\r\n\ ----------------------------------\r\n\ You\ rolled\ 1\ +\ 2\ \=\ 3\r\n\ You\ lose\r\n\ ----------------------------------\r\n\ ----------------------------------\r\n\ You\ rolled\ 4\ +\ 4\ \=\ 8\r\n\ point\ is\ 8\r\n\ You\ rolled\ 6\ +\ 2\ \=\ 8\r\n\ You\ win\r\n\ ----------------------------------\r\n\ ----------------------------------\r\n\ You\ rolled\ 3\ +\ 2\ \=\ 5\r\n\ point\ is\ 5\r\n\ You\ rolled\ 2\ +\ 5\ \=\ 7\r\n\ You\ lose\r\n\ ----------------------------------\r\n\ \r\n\ Commentary\:\ I\ broke\ down\ nearly\ every\ sentence\ in\ the\ description\ to\ be\ its\ own\ method\r\n\ and\ will\ use\ these\ checks\ to\ determine\ the\ ultimate\ outcome.\ The\ only\ thing\ I\ was\ unsure\r\n\ of\ was\ the\ point\ method.\ The\ sample\ run\ shows\ the\ final\ verdict\ on\ whether\ a\ point\ was\r\n\ matched\ or\ the\ dice\ rolled\ a\ 7,\ however\ the\ dice\ is\ rolled\ at\ random\ and\ I\ would\ assume\r\n\ all\ outputs\ need\ to\ be\ shown\ which\ is\ the\ direction\ I\ took\ with\ this\ program.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/29/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.30\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ rollTwoDice()
+comment3.params=result
+comment3.target=boolean\ craps(int)
+comment4.params=result
+comment4.target=boolean\ natural(int)
+comment5.params=result
+comment5.target=void\ point(int)
+numComments=6

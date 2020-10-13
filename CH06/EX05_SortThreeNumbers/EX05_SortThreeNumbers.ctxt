@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EX05_SortThreeNumbers
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=num1\ num2\ num3
+comment2.target=void\ displaySortedNumbers(double,\ double,\ double)
+numComments=3

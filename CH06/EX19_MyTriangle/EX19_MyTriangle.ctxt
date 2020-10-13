@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EX19_MyTriangle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=side1\ side2\ side3
+comment2.target=boolean\ isValid(double,\ double,\ double)
+comment2.text=Return\ true\ if\ the\ sum\ of\ any\ two\ sides\ is\ less\ than\ third\ side
+comment3.params=side1\ side2\ side3
+comment3.target=double\ area(double,\ double,\ double)
+comment3.text=Return\ the\ area\ of\ the\ triangle.
+numComments=4

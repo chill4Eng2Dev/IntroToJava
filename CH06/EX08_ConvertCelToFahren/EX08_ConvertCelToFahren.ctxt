@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EX08_ConvertCelToFahren
+comment0.text=\r\n\ (Conversions\ between\ Celsius\ and\ Fahrenheit)\ Write\ a\ class\ that\ contains\ the\ following\r\n\ two\ methods\:\r\n\ \r\n\ //\ Convert\ from\ Celsius\ to\ Fahrenheit\r\n\ public\ static\ double\ celsiusToFahrenheit(double\ celsius)\r\n\ \r\n\ //\ Convert\ from\ Fahrenheit\ to\ Celsius\ \r\n\ public\ static\ double\ fahrenheitToCelsius(double\ fahrenheit)\r\n\ \r\n\ The\ formula\ for\ the\ conversion\ is\:\r\n\ \r\n\ fahrenheit\ \=\ (9.0\ /\ 5)\ *\ celsius\ +\ 32\r\n\ celsius\ \=\ (5.0\ /\ 9)\ *\ (fahrenheit\ \u2013\ 32)\r\n\ \r\n\ Write\ a\ test\ program\ that\ invokes\ these\ methods\ to\ display\ the\ following\ tables\:\r\n\ \r\n\ Celsius\ \ \ \ \ \ Fahrenheit\ \ \ \ \ \ |\ \ \ \ \ \ \ Fahrenheit\ \ \ \ \ \ Celsius\r\n\ ------------------------------------------------------------\r\n\ 40.0\ \ \ \ \ \ \ \ \ 104.0\ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ 120.0\ \ \ \ \ \ \ \ \ \ \ 48.89\r\n\ 39.0\ \ \ \ \ \ \ \ \ 102.2\ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ 110.0\ \ \ \ \ \ \ \ \ \ \ 43.33\r\n\ ...\r\n\ 32.0\ \ \ \ \ \ \ \ \ 89.6\ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ 40.0\ \ \ \ \ \ \ \ \ \ \ \ 4.44\r\n\ 31.0\ \ \ \ \ \ \ \ \ 87.8\ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ 30.0\ \ \ \ \ \ \ \ \ \ \ \ -1.11\r\n\ \r\n\ \r\n\ \r\n\ Commentary\:\ I\ will\ use\ the\ provided\ formulas\ to\ calculate\ fahrenheit\ and\ celsius\ utilizing\r\n\ methods.\ I\ will\ print\ the\ table\ as\ shown\ in\ the\ sample\ run.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/9/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.8\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=celsius
+comment2.target=double\ celsiusToFahrenheit(double)
+comment3.params=fahrenheit
+comment3.target=double\ fahrenheitToCelsius(double)
+numComments=4

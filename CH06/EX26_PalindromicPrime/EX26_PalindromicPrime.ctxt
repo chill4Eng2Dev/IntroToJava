@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EX26_PalindromicPrime
+comment0.text=\r\n\ (Palindromic\ prime)\ A\ palindromic\ prime\ is\ a\ prime\ number\ and\ also\ palindromic.\r\n\ For\ example,\ 131\ is\ a\ prime\ and\ also\ a\ palindromic\ prime,\ as\ are\ 313\ and\r\n\ 757.\ Write\ a\ program\ that\ displays\ the\ first\ 100\ palindromic\ prime\ numbers.\ Display\r\n\ 10\ numbers\ per\ line,\ separated\ by\ exactly\ one\ space,\ as\ follows\:\r\n\ \r\n\ \ \ \ \ \ 2\ 3\ 5\ 7\ 11\ 101\ 131\ 151\ 181\ 191\r\n\ \ \ \ \ \ 313\ 353\ 373\ 383\ 727\ 757\ 787\ 797\ 919\ 929\r\n\ \ \ \ \ \ ...\r\n\ \r\n\ Commentary\:\ I\ will\ use\ Exercise\ 6.3\ for\ the\ reverse\ method\ and\ Exercise\ 6.10\ for\ the\r\n\ prime\ method.\ I\ will\ compare\ the\ reversed\ value\ to\ the\ original\ value\ should\ the\r\n\ original\ value\ be\ a\ prime\ number.\ I\ will\ then\ print\ output\ as\ stated\ in\ problem\r\n\ statement.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 9/11/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.26\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number
+comment2.target=boolean\ isPrime(int)
+comment2.text=Check\ whether\ number\ is\ prime
+comment3.params=number
+comment3.target=int\ reverse(int)
+comment3.text=Reverse\ the\ prime\ number
+numComments=4

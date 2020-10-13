@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=EX33_CurrentDateTime
+comment0.text=\r\n\ (Current\ date\ and\ time)\ Invoking\ System.currentTimeMillis()\ returns\ the\r\n\ elapsed\ time\ in\ milliseconds\ since\ midnight\ of\ January\ 1,\ 1970.\ Write\ a\ program\r\n\ that\ displays\ the\ date\ and\ time.\ Here\ is\ a\ sample\ run\:\r\n\ \r\n\ ----------------------------------------------\r\n\ Current\ date\ and\ time\ is\ May\ 16,\ 2012\ 10\:34\:23\r\n\ ----------------------------------------------\r\n\ \r\n\ Commentary\:\ This\ exercise\ is\ incredibly\ similar\ to\ Exercise\ 24.\ I\ am\ not\ sure\ what\r\n\ I\ can\ change\ between\ the\ two\ codes\ other\ than\ have\ this\ Exercise\ written\ more\ explicitly\r\n\ to\ what\ is\ shown\ in\ the\ sample\ run\ output.\ So,\ I\ will\ change\ the\ code\ to\ accomodate\ the\r\n\ sample\ run\ output\ and\ run\ as\ GMT\ time\ zone.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 10/12/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 6.33\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=millis
+comment2.target=java.lang.String\ getTime(long)
+comment3.params=millis
+comment3.target=java.lang.String\ getDate(long)
+comment4.params=seconds
+comment4.target=long\ getDays(long)
+comment5.params=days\ yearOrDays
+comment5.target=int\ getYearOrRemainDays(long,\ int)
+comment6.params=remainDays\ curYear\ monthOrRemainDays
+comment6.target=int\ getMonthOrRemainDays(int,\ int,\ int)
+comment7.params=month
+comment7.target=java.lang.String\ getMonthName(int)
+comment7.text=Get\ the\ English\ name\ for\ the\ month
+comment8.params=year\ month
+comment8.target=int\ getNumberOfDaysInMonth(int,\ int)
+comment8.text=Get\ the\ number\ of\ days\ in\ a\ month
+comment9.params=year
+comment9.target=boolean\ isLeapYear(int)
+comment9.text=Determine\ if\ it\ is\ a\ leap\ year
+numComments=10

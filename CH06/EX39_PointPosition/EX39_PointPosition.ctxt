@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EX39_PointPosition
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x0\ y0\ x1\ y1\ x2\ y2
+comment2.target=boolean\ leftOfTheLine(double,\ double,\ double,\ double,\ double,\ double)
+comment3.params=x0\ y0\ x1\ y1\ x2\ y2
+comment3.target=boolean\ onTheSameLine(double,\ double,\ double,\ double,\ double,\ double)
+comment4.params=x0\ y0\ x1\ y1\ x2\ y2
+comment4.target=boolean\ onTheLineSegment(double,\ double,\ double,\ double,\ double,\ double)
+numComments=5
