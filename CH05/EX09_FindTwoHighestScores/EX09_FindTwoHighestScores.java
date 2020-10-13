@@ -41,13 +41,16 @@ public class EX09_FindTwoHighestScores {
             score = input.nextInt();
             
             // if score larger than max score, then update highest and second highest score and student
-            if(score > maxScore) {
+            if (score > maxScore) {
                 secondScore = maxScore;
                 secondStudentName = maxStudentName;
                 maxScore = score;
                 maxStudentName = studentName;
-                
+            } else if (score > secondScore) {
+               secondScore = score;
+               secondStudentName = studentName;
             }
+               
         }
         
         // print max and second highest score with student name as stated in problem statement
