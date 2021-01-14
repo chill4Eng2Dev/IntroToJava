@@ -47,4 +47,3 @@
 
 ### Total Problems Completed: 262 of 776 Total or 33.76%
 ### * Asterick indicates that I will be moving on from the chapter to work on new material. I will likely come back to unfinished problems at a later date.
-### ** Double Asterick indicates that I had to use material from other chapters to complete the Chapters exercises.
