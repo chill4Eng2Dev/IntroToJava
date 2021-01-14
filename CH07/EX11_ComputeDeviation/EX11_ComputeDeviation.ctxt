@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX11_ComputeDeviation
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=double\ mean(double[])
+comment3.params=x
+comment3.target=double\ deviation(double[])
+numComments=4

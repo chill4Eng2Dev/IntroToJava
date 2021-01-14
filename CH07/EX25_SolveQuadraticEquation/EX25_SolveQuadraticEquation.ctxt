@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EX25_SolveQuadraticEquation
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=eqn\ roots
+comment2.target=int\ solveQuadratic(double[],\ double[])
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX01_AssignGrades
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scores
+comment2.target=int\ getMax(int[])
+comment3.params=score\ max
+comment3.target=char\ getGrade(int,\ int)
+numComments=4

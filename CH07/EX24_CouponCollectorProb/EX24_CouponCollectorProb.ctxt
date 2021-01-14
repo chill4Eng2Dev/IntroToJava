@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EX24_CouponCollectorProb
+comment0.text=\r\n\ (Simulation\:\ coupon\ collector\u2019s\ problem)\ Coupon\ collector\ is\ a\ classic\ statistics\r\n\ problem\ with\ many\ practical\ applications.\ The\ problem\ is\ to\ pick\ objects\ from\r\n\ a\ set\ of\ objects\ repeatedly\ and\ find\ out\ how\ many\ picks\ are\ needed\ for\ all\ the\r\n\ objects\ to\ be\ picked\ at\ least\ once.\ A\ variation\ of\ the\ problem\ is\ to\ pick\ cards\ from\r\n\ a\ shuffled\ deck\ of\ 52\ cards\ repeatedly\ and\ find\ out\ how\ many\ picks\ are\ needed\r\n\ before\ you\ see\ one\ of\ each\ suit.\ Assume\ a\ picked\ card\ is\ placed\ back\ in\ the\ deck\r\n\ before\ picking\ another.\ Write\ a\ program\ to\ simulate\ the\ number\ of\ picks\ needed\r\n\ to\ get\ four\ cards\ from\ each\ suit\ and\ display\ the\ four\ cards\ picked\ (it\ is\ possible\ a\r\n\ card\ may\ be\ picked\ twice).\ Here\ is\ a\ sample\ run\ of\ the\ program\:\r\n\r\n\ ---------------------------------\r\n\ Queen\ of\ Spades\r\n\ 5\ of\ Clubs\r\n\ Queen\ of\ Hearts\r\n\ 4\ of\ Diamonds\r\n\ Number\ of\ picks\:\ 12\r\n\ ---------------------------------\r\n\r\n\ Commentary\:\ I\ will\ need\ to\ create\ (2)\ arrays,\ one\ for\ the\ deck\ and\ the\ other\ for\ the\r\n\ four\ cards\ picked.\ I\ will\ need\ to\ shuffle\ the\ deck\ per\ the\ problem\ description.\ I\ will\r\n\ then\ have\ (4)\ random\ cards\ picked\ and\ stored\ in\ an\ array.\ I\ will\ then\ need\ to\ check\r\n\ if\ the\ (4)\ cards\ selected\ are\ of\ each\ suit.\ Based\ on\ the\ description,\ I\ believe\ the\ \r\n\ count\ incrementer\ is\ for\ each\ set\ of\ (4)\ cards\ selected.\ I\ will\ print\ output\ to\ \r\n\ match\ sample\ run.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 1/11/2021\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 7.24\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=deck
+comment2.target=void\ shuffleDeck(int[])
+comment3.params=deck
+comment3.target=int[]\ getFourCards(int[])
+comment4.params=cards
+comment4.target=boolean\ isAllSuits(int[])
+comment5.params=deck
+comment5.target=void\ displayCards(int[])
+numComments=6

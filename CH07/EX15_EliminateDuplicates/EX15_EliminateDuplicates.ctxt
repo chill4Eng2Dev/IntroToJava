@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX15_EliminateDuplicates
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=int[]\ eliminateDuplicates(int[])
+comment3.params=list\ key
+comment3.target=int\ linearSearch(int[],\ int)
+numComments=4

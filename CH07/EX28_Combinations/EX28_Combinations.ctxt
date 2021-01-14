@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EX28_Combinations
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ printCombinations(int[])
+numComments=3

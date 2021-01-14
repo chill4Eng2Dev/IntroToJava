@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EX16_ExecutionTime
+comment0.text=\r\n\ (Execution\ time)\ Write\ a\ program\ that\ randomly\ generates\ an\ array\ of\ 100,000\r\n\ integers\ and\ a\ key.\ Estimate\ the\ execution\ time\ of\ invoking\ the\ linearSearch\r\n\ method\ in\ Listing\ 7.6.\ Sort\ the\ array\ and\ estimate\ the\ execution\ time\ of\ invoking\r\n\ the\ binarySearch\ method\ in\ Listing\ 7.7.\ You\ can\ use\ the\ following\ code\r\n\ template\ to\ obtain\ the\ execution\ time\:\r\n\ \r\n\ long\ startTime\ \=\ System.currentTimeMillis();\r\n\ perform\ the\ task;\r\n\ long\ endTime\ \=\ System.currentTimeMillis();\r\n\ long\ executionTime\ \=\ endTime\ -\ startTime;\r\n\ \r\n\ Commentary\:\ The\ start\ and\ end\ times\ populated\ were\ equal\ nearly\ every\ time\ and\ did\r\n\ not\ show\ a\ different\ in\ complexity\ to\ run.\ I\ am\ curious\ if\ that\ has\ something\ to\ do\r\n\ with\ my\ processor\ and\ how\ data\ is\ handled\ now\ in\ memory?\ Not\ sure.\ I\ will\ add\ listing\r\n\ 7.6\ and\ 7.7\ and\ check\ execution\ time\ for\ linear\ search\ and\ binary\ search.\ What\ takes\r\n\ the\ most\ time\ is\ the\ sorting.\ I\ will\ print\ output\ as\ stated\ in\ problem\ statement.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 10/16/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 7.16\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list\ key
+comment2.target=int\ linearSearch(int[],\ int)
+comment3.params=list
+comment3.target=void\ selectionSort(int[])
+comment4.params=list\ key
+comment4.target=int\ binarySearch(int[],\ int)
+numComments=5

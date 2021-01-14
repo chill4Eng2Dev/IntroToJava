@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EX05_PrintDistinctNumbers
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list\ key
+comment2.target=int\ linearSearch(int[],\ int)
+numComments=3

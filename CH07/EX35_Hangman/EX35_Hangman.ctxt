@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EX35_Hangman
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getWord()
+comment3.params=s
+comment3.target=char[]\ getAsterisk(java.lang.String)
+comment4.params=asterisk\ word\ s
+comment4.target=void\ checkGuess(char[],\ java.lang.String,\ java.lang.String)
+comment5.params=asterisk
+comment5.target=boolean\ isSolved(char[])
+numComments=6

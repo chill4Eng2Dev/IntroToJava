@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX32_PartitionOfList
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=int\ partition(int[])
+comment3.params=list\ pivotPoint
+comment3.target=int[]\ getPartitionList(int[],\ int)
+numComments=4

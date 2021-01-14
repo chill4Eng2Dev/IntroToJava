@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EX21_BeanMachine
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=paths\ slots
+comment2.target=void\ dropBall(java.lang.String[],\ int[])
+comment3.params=
+comment3.target=int\ getRandomNum()
+comment4.params=slots
+comment4.target=void\ printBalls(int[])
+comment5.params=list
+comment5.target=int\ columnHeight(int[])
+comment6.params=paths
+comment6.target=void\ printPaths(java.lang.String[])
+numComments=7

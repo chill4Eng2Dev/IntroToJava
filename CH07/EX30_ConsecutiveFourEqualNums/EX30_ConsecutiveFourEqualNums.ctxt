@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX30_ConsecutiveFourEqualNums
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input
+comment2.target=int[]\ getValues(java.util.Scanner)
+comment3.params=values
+comment3.target=boolean\ isConsecutiveFour(int[])
+numComments=4

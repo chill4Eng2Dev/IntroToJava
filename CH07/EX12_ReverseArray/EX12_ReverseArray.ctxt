@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EX12_ReverseArray
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=int[]\ reverse(int[])
+numComments=3

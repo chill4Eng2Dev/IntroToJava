@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX08_AverageAnArray
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array
+comment2.target=int\ average(int[])
+comment3.params=array
+comment3.target=double\ average(double[])
+numComments=4

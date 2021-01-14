@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX26_StrictlyIdenticalArrays
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=size\ input
+comment2.target=int[]\ getList(int,\ java.util.Scanner)
+comment3.params=list1\ list2
+comment3.target=boolean\ equals(int[],\ int[])
+numComments=4

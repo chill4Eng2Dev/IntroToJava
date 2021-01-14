@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EX07_CountSingleDigits
+comment0.text=\r\n\ (Count\ single\ digits)\ Write\ a\ program\ that\ generates\ 100\ random\ integers\ between\r\n\ 0\ and\ 9\ and\ displays\ the\ count\ for\ each\ number.\ (Hint\:\ Use\ an\ array\ of\ ten\ integers,\r\n\ say\ counts,\ to\ store\ the\ counts\ for\ the\ number\ of\ 0s,\ 1s,\ .\ .\ .\ ,\ 9s.)\r\n\ \r\n\ \r\n\ Commentary\:\ I\ will\ use\ Math.random()\ to\ generate\ random\ numbers\ between\ 0-9\ and\ store\r\n\ the\ counts\ of\ each\ number\ into\ an\ array.\ I\ will\ then\ print\ the\ counts\ out\ as\ described\r\n\ in\ the\ problem\ statement.\r\n\r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 10/15/2020\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 7.7\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[]\ getCountsOfRandNum()
+numComments=3

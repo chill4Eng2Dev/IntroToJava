@@ -17,7 +17,7 @@
 |**Chapter 4: Mathematical Functions, Characters, and Strings** | 26 | 26 | 100% | :heavy_check_mark: Complete |
 |**Chapter 5: Loops** | 51 | 51 | 100% | :heavy_check_mark: Complete |
 |**Chapter 6: Methods** | 39 | 39 | 100% | :heavy_check_mark: Complete |
-|**Chapter 7: Single-Dimensional Arrays** | 35 | 0 | 0% | :red_circle: Not Started |
+|**Chapter 7: Single-Dimensional Arrays** | 35 | 34 | 97.1% | :heavy_check_mark: ~Complete* |
 |**Chapter 8: Multidimensional Arrays** | 37 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 9: Objects and Classes** | 13 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 10: Object-Oriented Thinking** | 28 | 0 | 0% | :red_circle: Not Started |
@@ -45,5 +45,6 @@
 |**Chapter 32: Java Database Programming** | 11 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 33: JavaServer Faces** | 13 | 0 | 0% | :red_circle: Not Started |
 
-### Total Problems Completed: 228 of 776 Total or 29.38%
-
+### Total Problems Completed: 262 of 776 Total or 33.76%
+### * Asterick indicates that I will be moving on from the chapter to work on new material. I will likely come back to unfinished problems at a later date.
+### ** Double Asterick indicates that I had to use material from other chapters to complete the Chapters exercises.

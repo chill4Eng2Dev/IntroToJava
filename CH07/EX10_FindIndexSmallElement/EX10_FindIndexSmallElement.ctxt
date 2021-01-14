@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EX10_FindIndexSmallElement
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array
+comment2.target=int\ indexOfSmallestElement(double[])
+numComments=3
