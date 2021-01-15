@@ -46,4 +46,4 @@
 |**Chapter 33: JavaServer Faces** | 13 | 0 | 0% | :red_circle: Not Started |
 
 ### Total Problems Completed: 262 of 776 Total or 33.76%
-### * Asterick indicates that I will be moving on from the chapter to work on new material. I will likely come back to unfinished problems at a later date.
+### * Asterisk indicates that I will be moving on from the chapter to work on new material. I will likely come back to unfinished problems at a later date.
