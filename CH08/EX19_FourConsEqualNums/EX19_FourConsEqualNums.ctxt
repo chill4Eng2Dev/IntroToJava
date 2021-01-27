@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=EX19_FourConsEqualNums
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=values
+comment2.target=boolean\ isConsecutiveFour(int[][])
+comment3.params=values
+comment3.target=boolean\ isConsecutiveRow(int[][])
+comment4.params=values
+comment4.target=boolean\ isConsecutiveCol(int[][])
+comment5.params=values
+comment5.target=boolean\ isConsL2R(int[][])
+comment6.params=values
+comment6.target=boolean\ isConsR2L(int[][])
+comment7.params=
+comment7.target=int[][]\ getMatrix()
+numComments=8

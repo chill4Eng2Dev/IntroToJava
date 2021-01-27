@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EX21_CentralCity
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=cityCoords
+comment2.target=double[]\ getCityAndDistance(double[][])
+comment3.params=
+comment3.target=double[][]\ getMatrix()
+comment4.params=x1\ y1\ x2\ y2
+comment4.target=double\ distance(double,\ double,\ double,\ double)
+numComments=5

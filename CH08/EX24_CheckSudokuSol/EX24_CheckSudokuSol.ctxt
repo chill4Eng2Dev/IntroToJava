@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EX24_CheckSudokuSol
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[][]\ readASolution()
+comment2.text=Read\ a\ Sudoku\ solution\ from\ the\ console
+comment3.params=grid
+comment3.target=boolean\ isValid(int[][])
+comment3.text=Check\ whether\ a\ solution\ is\ valid
+comment4.params=grid
+comment4.target=boolean\ isValidEntry(int[][])
+comment5.params=grid
+comment5.target=boolean\ isValidRows(int[][])
+comment6.params=grid
+comment6.target=boolean\ isValidCols(int[][])
+comment7.params=grid
+comment7.target=boolean\ isValidBox(int[][])
+comment8.params=array
+comment8.target=boolean\ checkCount(int[])
+numComments=9

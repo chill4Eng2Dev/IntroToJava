@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX25_MarkovMatrix
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m
+comment2.target=boolean\ isMarkovMatrix(double[][])
+comment3.params=
+comment3.target=double[][]\ getMatrix()
+numComments=4

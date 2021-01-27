@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EX23_FindFlippedCell
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[][]\ getMatrix()
+comment3.params=m
+comment3.target=int\ checkRows(int[][])
+comment4.params=m
+comment4.target=int\ checkColumns(int[][])
+numComments=5

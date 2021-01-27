@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EX18_ShuffleRows
+comment0.text=\r\n\ (Shuffle\ rows)\ Write\ a\ method\ that\ shuffles\ the\ rows\ in\ a\ two-dimensional\ int\r\n\ array\ using\ the\ following\ header\:\r\n\ \r\n\ public\ static\ void\ shuffle(int[][]\ m)\r\n\ \r\n\ Write\ a\ test\ program\ that\ shuffles\ the\ following\ matrix\:\r\n\ \r\n\ int[][]\ m\ \=\ {{1,\ 2},\ {3,\ 4},\ {5,\ 6},\ {7,\ 8},\ {9,\ 10}};\r\n\r\n\ Commentary\:\ I\ will\ cycle\ through\ each\ available\ row\ and\ shuffle\ the\ entire\ contents\r\n\ of\ the\ current\ row,\ with\ the\ randomly\ generated\ row.\ The\ shuffle\ will\ be\ based\ on\ a\ \r\n\ random\ number\ generated\ between\ 0\ and\ row\ length.\ I\ will\ print\ the\ matrix\ before\ and\ \r\n\ after\ the\ shuffle.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 1/22/2021\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 8.18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m
+comment2.target=void\ printMatrix(int[][])
+comment3.params=m
+comment3.target=void\ shuffle(int[][])
+numComments=4

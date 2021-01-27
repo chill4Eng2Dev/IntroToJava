@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EX20_ConnectFour
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ playGame()
+comment3.params=board\ token
+comment3.target=int[]\ getInput(int[][],\ java.lang.String)
+comment4.params=array\ board
+comment4.target=boolean\ inputValid(int[],\ int[][])
+comment5.params=array\ board
+comment5.target=boolean\ isColumnOpen(int[],\ int[][])
+comment6.params=board\ token
+comment6.target=int\ getStatus(int[][],\ java.lang.String)
+comment7.params=
+comment7.target=int[][]\ getBoard()
+comment8.params=m
+comment8.target=void\ printBoard(int[][])
+numComments=9

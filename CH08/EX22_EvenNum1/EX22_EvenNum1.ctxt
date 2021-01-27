@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EX22_EvenNum1
+comment0.text=\r\n\ (Even\ number\ of\ 1s)\ Write\ a\ program\ that\ generates\ a\ 6-by-6\ two-dimensional\r\n\ matrix\ filled\ with\ 0s\ and\ 1s,\ displays\ the\ matrix,\ and\ checks\ if\ every\ row\ and\r\n\ every\ column\ have\ an\ even\ number\ of\ 1s.\r\n\r\n\ Commentary\:\ I\ will\ need\ a\ method\ to\ evaluate\ each\ row\ or\ column\ and\ determine\ if\r\n\ said\ row\ or\ column\ is\ even\ (sum\ %\ 2\ \=\=\ 0).\ I\ will\ print\ output\ as\ described\ in\r\n\ problem\ statement.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 1/17/2021\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 8.22\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[][]\ getBinMatrix()
+comment3.params=m
+comment3.target=boolean\ evenRows(int[][])
+comment4.params=m
+comment4.target=boolean\ evenColumns(int[][])
+comment5.params=m
+comment5.target=void\ printMatrix(int[][])
+numComments=6
