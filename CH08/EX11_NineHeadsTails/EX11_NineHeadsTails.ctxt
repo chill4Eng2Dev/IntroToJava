@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EX11_NineHeadsTails
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=decimal
+comment2.target=java.lang.String\ getBinFromDec(int)
+comment3.params=s
+comment3.target=char[][]\ getMatrix(java.lang.String)
+comment4.params=m
+comment4.target=void\ printMatrix(char[][])
+numComments=5

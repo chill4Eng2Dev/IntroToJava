@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EX12_ComputeTax
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=status\ income
+comment2.target=double\ getTax(int,\ double)
+numComments=3

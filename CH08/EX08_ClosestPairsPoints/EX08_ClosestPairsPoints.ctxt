@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EX08_ClosestPairsPoints
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=double\ distance(double,\ double,\ double,\ double)
+comment2.text=Compute\ the\ distance\ between\ two\ points\ (x1,\ y1)\ and\ (x2,\ y2)
+numComments=3

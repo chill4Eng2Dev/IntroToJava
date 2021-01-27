@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EX16_SortTwoDimArray
+comment0.text=\r\n\ (Sort\ two-dimensional\ array)\ Write\ a\ method\ to\ sort\ a\ two-dimensional\ array\r\n\ using\ the\ following\ header\:\r\n\ \r\n\ public\ static\ void\ sort(int\ m[][])\r\n\ \r\n\ The\ method\ performs\ a\ primary\ sort\ on\ rows\ and\ a\ secondary\ sort\ on\ columns.\r\n\ For\ example,\ the\ following\ array\r\n\ \r\n\ {{4,\ 2},{1,\ 7},{4,\ 5},{1,\ 2},{1,\ 1},{4,\ 1}}\r\n\ \r\n\ will\ be\ sorted\ to\r\n\ \r\n\ {{1,\ 1},{1,\ 2},{1,\ 7},{4,\ 1},{4,\ 2},{4,\ 5}}.\r\n\r\n\ Commentary\:\ I\ will\ need\ to\ modify\ selection\ sort\ to\ account\ for\ a\ two\ dimensional\r\n\ array.\ The\ adjusted\ selection\ sort\ is\ only\ good\ for\ a\ n-by-2\ array.\ The\ for\ loops\r\n\ will\ need\ to\ search\ for\ the\ smallest\ value\ in\ the\ matrix\ and\ swap\ with\ the\ current\r\n\ position.\ I\ will\ print\ the\ matrix\ before\ and\ after\ sorting.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 1/22/2021\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 8.16\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m
+comment2.target=void\ printMatrix(int[][])
+comment3.params=m
+comment3.target=void\ sort(int[][])
+numComments=4
