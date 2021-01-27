@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX07_PointsNearestEachOther
+comment0.text=\r\n\ (Points\ nearest\ to\ each\ other)\ Listing\ 8.3\ gives\ a\ program\ that\ finds\ two\ points\ in\ a\r\n\ two-dimensional\ space\ nearest\ to\ each\ other.\ Revise\ the\ program\ so\ that\ it\ finds\ two\r\n\ points\ in\ a\ three-dimensional\ space\ nearest\ to\ each\ other.\ Use\ a\ two-dimensional\r\n\ array\ to\ represent\ the\ points.\ Test\ the\ program\ using\ the\ following\ points\:\r\n\ \r\n\ double[][]\ points\ \=\ {{-1,\ 0,\ 3},\ {-1,\ -1,\ -1},\ {4,\ 1,\ 1},\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ {2,\ 0.5,\ 9},\ {3.5,\ 2,\ -1},\ {3,\ 1.5,\ 3},\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ {-1.5,\ 4,\ 2},\ {5.5,\ 4,\ -0.5}};\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ The\ formula\ for\ computing\ the\ distance\ between\ two\ points\ (x1,\ y1,\ z1)\ and\r\n\ (x2,\ y2,\ z2)\ is\ SQRT((x2\ -\ x1)^2\ +\ (y2\ -\ y1)^2\ +\ (z2\ -\ z1)^2).\r\n\ \r\n\ Commentary\:\ I\ will\ remove\ Scanner\ components\ and\ hard\ code\ the\ points\ as\ shown\r\n\ in\ problem\ statement.\ I\ will\ extend\ the\ distance\ formula\ to\ capture\ the\ z\ point.\r\n\ I\ will\ return\ the\ two\ points\ that\ are\ closest\ as\ described\ in\ the\ problem\ statement.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 1/15/2021\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 8.7\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x1\ y1\ z1\ x2\ y2\ z2
+comment2.target=double\ distance(double,\ double,\ double,\ double,\ double,\ double)
+comment2.text=Compute\ the\ distance\ between\ two\ points\ (x1,\ y1,\ z1)\ and\ (x2,\ y2,\ z2)
+numComments=3

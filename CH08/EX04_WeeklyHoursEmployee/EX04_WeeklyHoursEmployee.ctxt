@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EX04_WeeklyHoursEmployee
+comment0.text=\r\n\ (Compute\ the\ weekly\ hours\ for\ each\ employee)\ Suppose\ the\ weekly\ hours\ for\ all\r\n\ employees\ are\ stored\ in\ a\ two-dimensional\ array.\ Each\ row\ records\ an\ employee\u2019s\r\n\ seven-day\ work\ hours\ with\ seven\ columns.\ For\ example,\ the\ following\r\n\ array\ stores\ the\ work\ hours\ for\ eight\ employees.\ Write\ a\ program\ that\ displays\r\n\ employees\ and\ their\ total\ hours\ in\ decreasing\ order\ of\ the\ total\ hours.\r\n\ \r\n\ [SEE\ PHOTO\ IN\ FOLDER]\r\n\ \r\n\ Commentary\:\ I\ will\ need\ to\ sum\ each\ row\ and\ assign\ each\ total\ and\ each\ row\ to\r\n\ a\ new\ two\ dimensional\ array.\ I\ will\ sort\ the\ array\ using\ selection\ sort\ in\ descending\r\n\ order.\ I\ will\ print\ output\ as\ described\ in\ the\ problem\ statement.\r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 1/15/2021\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 8.4\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m
+comment2.target=int[][]\ getTotalHours(int[][])
+comment3.params=m
+comment3.target=void\ sort(int[][])
+numComments=4

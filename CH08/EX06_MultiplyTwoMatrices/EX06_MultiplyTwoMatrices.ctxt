@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EX06_MultiplyTwoMatrices
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=double[][]\ multiplyMatrix(double[][],\ double[][])
+comment3.params=
+comment3.target=double[][]\ getMatrix()
+comment4.params=a\ b\ c
+comment4.target=void\ printMatrix(double[][],\ double[][],\ double[][])
+numComments=5
