@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EX28_StrictlyIdenticalArrays
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[][]\ getMatrix()
+comment3.params=m1\ m2
+comment3.target=boolean\ equals(int[][],\ int[][])
+numComments=4

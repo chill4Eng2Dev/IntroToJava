@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EX32_AreaOfTriangle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=points
+comment2.target=double\ getTriangleArea(double[][])
+comment3.params=points
+comment3.target=boolean\ sameLine(double[][])
+comment4.params=x1\ y1\ x2\ y2
+comment4.target=double\ getSide(double,\ double,\ double,\ double)
+comment5.params=
+comment5.target=double[][]\ getMatrix()
+numComments=6

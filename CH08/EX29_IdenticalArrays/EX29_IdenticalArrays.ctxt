@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EX29_IdenticalArrays
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[][]\ getMatrix()
+comment3.params=m
+comment3.target=int[]\ sort(int[][])
+comment4.params=m
+comment4.target=int[]\ matrixToArray(int[][])
+comment5.params=m1\ m2
+comment5.target=boolean\ equals(int[][],\ int[][])
+numComments=6
