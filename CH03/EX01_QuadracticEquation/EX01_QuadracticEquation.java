@@ -58,20 +58,20 @@ public class EX01_QuadracticEquation {
         double b = input.nextDouble();
         double c = input.nextDouble();
         
-        // calculate the discriminate
-        double discriminate = Math.pow(b, 2) - 4 * a * c;
+        // calculate the discriminant
+        double discriminant = Math.pow(b, 2) - 4 * a * c;
         
-        if (discriminate > 0) {    
-            // positive discriminate, calc roots, print output as shown in sample run
-            root1 = (-b + Math.pow(discriminate, 0.5)) / (2 * a);   
-            root2 = (-b - Math.pow(discriminate, 0.5)) / (2 * a);   
+        if (discriminant > 0) {    
+            // positive discriminant, calc roots, print output as shown in sample run
+            root1 = (-b + Math.pow(discriminant, 0.5)) / (2 * a);   
+            root2 = (-b - Math.pow(discriminant, 0.5)) / (2 * a);   
             System.out.println("The equation has two roots " + root1 + " and " + root2);
-        } else if (discriminate == 0) {
-            // zero discriminate, calc simplified root, print output as shown in sample run
+        } else if (discriminant == 0) {
+            // zero discriminant, calc simplified root, print output as shown in sample run
             root1 = -b / (2 * a);
             System.out.println("The equation has one root " + root1);
         } else {
-            // negative discriminate, print statement as shown in sample run
+            // negative discriminant, print statement as shown in sample run
             System.out.println("The equation has no real roots");
         }
         
