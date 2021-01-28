@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Stock
+comment0.text=\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Stock\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\ \ \r\n\ -------------------------------------------------*\ \ \r\n\ +symbol\:\ String\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +name\:\ String\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +previousClosingPrice\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +currentPrice\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -------------------------------------------------*\ \r\n\ +Stock(symbol\:\ String,\ name\:\ String)\ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +getChangePercent(previousClosingPrice\:\ double,\ \ *\r\n\ \ \ \ \ \ \ currentPrice\:\ double)\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n
+comment1.params=symbol\ name
+comment1.target=Stock(java.lang.String,\ java.lang.String)
+comment2.params=previousClosingPrice\ currentPrice
+comment2.target=double\ getChangePercent(double,\ double)
+numComments=3

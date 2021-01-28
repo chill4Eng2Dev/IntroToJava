@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Rectangle\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\ \ \r\n\ -------------------------------------------------*\ \ \r\n\ +width\:\ doublewidth\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +height\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -------------------------------------------------*\ \r\n\ +Rectangle()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\ \ \r\n\ +Rectangle(width\:\ double,\ height\:\ double)\ \ \ \ \ \ \ \ *\r\n\ +getArea()\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +getPerimeter()\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n
+comment1.params=
+comment1.target=Rectangle()
+comment2.params=width\ height
+comment2.target=Rectangle(double,\ double)
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=double\ getPerimeter()
+numComments=5

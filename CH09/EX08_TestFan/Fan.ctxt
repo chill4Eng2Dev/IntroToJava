@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Fan
+comment0.text=\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Fan\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\ \ \r\n\ -------------------------------------------------*\ \ \r\n\ -SLOW\:\ int\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -MEDIUM\:\ int\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -FAST\:\ int\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -speed\:\ int\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -on\:\ boolean\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -radius\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -color\:\ String\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -------------------------------------------------*\ \r\n\ +Fan()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +getSpeed()\:\ int\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +isOn()\:\ boolean\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +getRadius()\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +getColor()\:\ String\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +setSpeed(speed\:\ int)\:\ void\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +setOn(on\:\ boolean)\:\ boolean\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +setRadius(radius\:\ double)\:\ void\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +setColor(color\:\ String)\:\ void\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +toString()\:\ void\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n
+comment1.params=
+comment1.target=Fan()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getSpeed()
+comment2.text=accessor\ methods
+comment3.params=
+comment3.target=boolean\ isOn()
+comment4.params=
+comment4.target=double\ getRadius()
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=speed
+comment6.target=void\ setSpeed(int)
+comment6.text=mutator\ methods
+comment7.params=on
+comment7.target=void\ setOn(boolean)
+comment8.params=radius
+comment8.target=void\ setRadius(double)
+comment9.params=color
+comment9.target=void\ setColor(java.lang.String)
+numComments=11

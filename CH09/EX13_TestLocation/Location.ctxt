@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Location\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\ \ \r\n\ -------------------------------------------------*\ \ \r\n\ -row\:\ int\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -column\:\ int\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -maxValue\:\ double\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -------------------------------------------------*\ \r\n\ +Location(a\:\ double[][])\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n
+comment1.params=a
+comment1.target=Location(double[][])
+numComments=2

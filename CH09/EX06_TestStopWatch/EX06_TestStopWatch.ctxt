@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EX06_TestStopWatch
+comment0.text=\r\n\ (Stopwatch)\ Design\ a\ class\ named\ StopWatch.\ The\ class\ contains\:\r\n\ \r\n\ \u25A0\ Private\ data\ fields\ startTime\ and\ endTime\ with\ getter\ methods.\r\n\ \u25A0\ A\ no-arg\ constructor\ that\ initializes\ startTime\ with\ the\ current\ time.\r\n\ \u25A0\ A\ method\ named\ start()\ that\ resets\ the\ startTime\ to\ the\ current\ time.\r\n\ \u25A0\ A\ method\ named\ stop()\ that\ sets\ the\ endTime\ to\ the\ current\ time.\r\n\ \u25A0\ A\ method\ named\ getElapsedTime()\ that\ returns\ the\ elapsed\ time\ for\ the\r\n\ stopwatch\ in\ milliseconds.\r\n\ \r\n\ Draw\ the\ UML\ diagram\ for\ the\ class\ and\ then\ implement\ the\ class.\ Write\ a\ test\r\n\ program\ that\ measures\ the\ execution\ time\ of\ sorting\ 100,000\ numbers\ using\r\n\ selection\ sort.\r\n\ \r\n\ Commentary\:\ \r\n\ \r\n\ Author\:\ chill4Eng2Dev\ \r\n\ Date\:\ 1/27/2021\r\n\ Book\:\ Introduction\ to\ Java\ Programming,\ 10th\ Edition,\ Y.\ Daniel\ Liang\r\n\ Exercise\:\ 9.6\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array
+comment2.target=void\ selectionSort(int[])
+numComments=3

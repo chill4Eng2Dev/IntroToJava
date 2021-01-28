@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StopWatch
+comment0.text=\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Stock\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\ \ \r\n\ -------------------------------------------------*\ \ \r\n\ -startTime\:\ long\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -endTime\:\ long\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ -------------------------------------------------*\ \r\n\ +getStartTime()\:\ long\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +getEndTime()\:\ long\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +StopWatch()\:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +start()\:\ void\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +stop()\:\ void\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ +getElapsedTime()\:\ long\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n
+comment1.params=
+comment1.target=StopWatch()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=
+comment4.target=long\ getStartTime()
+comment4.text=accessor\ methods
+comment5.params=
+comment5.target=long\ getEndTime()
+comment6.params=
+comment6.target=long\ getElapsedTime()
+numComments=7
