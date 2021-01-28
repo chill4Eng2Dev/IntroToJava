@@ -19,7 +19,7 @@
 |**Chapter 6: Methods** | 39 | 39 | 100% | :heavy_check_mark: Complete |
 |**Chapter 7: Single-Dimensional Arrays** | 35 | 34 | 97.1% | :heavy_check_mark: ~Complete* |
 |**Chapter 8: Multidimensional Arrays** | 37 | 35 | 94.6% | :heavy_check_mark: ~Complete* |
-|**Chapter 9: Objects and Classes** | 13 | 0 | 0% | :red_circle: Not Started |
+|**Chapter 9: Objects and Classes** | 13 | 13 | 100% | :heavy_check_mark: Complete |
 |**Chapter 10: Object-Oriented Thinking** | 28 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 11: Inheritance and Polymorphism** | 17 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 12: Exception Handling and Text I/O** | 33 | 0 | 0% | :red_circle: Not Started |
@@ -45,5 +45,5 @@
 |**Chapter 32: Java Database Programming** | 11 | 0 | 0% | :red_circle: Not Started |
 |**Chapter 33: JavaServer Faces** | 13 | 0 | 0% | :red_circle: Not Started |
 
-### Total Problems Completed: 297 of 776 Total or 38.27%
+### Total Problems Completed: 310 of 776 Total or 39.95%
 ### * Asterisk indicates that I will be moving on from the chapter to work on new material. I will likely come back to unfinished problems at a later date.
